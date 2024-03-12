@@ -1,7 +1,7 @@
-# this is shopping list for poland as of march 2024:
+# lista zakupów na Marzec 2024 w kolejności od najwygodniejszego do najmniej wygodnego dostawcy
+lista powstała na podstawie tego linku: https://github.com/schoolpost/CinePI/wiki/Build-Log
 
-
- -- ALLEGRO --
+## ALLEGRO
 
 https://allegro.pl/oferta/hyperpixel-4-0-square-touch-modul-lcd-ips-4-13155842822
 https://allegro.pl/oferta/raspberry-pi-hq-camera-kamera-z-sensorem-sony-13415886375
@@ -24,20 +24,20 @@ https://allegro.pl/oferta/100pc-flat-pvc-heat-shrink-tubing-battery-wrap-for-126
 
 https://allegro.pl/oferta/modul-bms-4s-15a-li-ion-18650-14-4v-14-8v-ladowark-7332311929
 
- -- DIGIKEY --
+## DIGIKEY
 https://www.digikey.ca/en/products/detail/adafruit-industries-llc/4904/14205155
 https://www.digikey.ca/en/products/detail/adafruit-industries-llc/4905/14205159
 
 
- -- ALIEXPRESS --
+## ALIEXPRESS
 https://pl.aliexpress.com/item/1005004949203075.html?gatewayAdapt=glo2pol
 
 
- -- FIND REPLACEMENT --
+## ZNALEŹĆ ZAMIENNIK
 
 https://www.digikey.pl/en/products/detail/pimoroni-ltd/zero2go-omini-r2/15851372
 https://pl.aliexpress.com/item/33014419878.html?gatewayAdapt=glo2pol
 https://pl.aliexpress.com/item/33014419878.html?gatewayAdapt=glo2pol
 
- -- CHECK COMPAT --
+## SPRAWDZIĆ KOMPATYBILNOŚĆ
 https://allegro.pl/oferta/wentylator-noctua-nf-a4x20-pwm-40-x-40-mm-12822855016
